@@ -1,2 +1,1 @@
-echo "Harry Programmer and the Sorcerers Code: Scene 1" >> Scene1.txt
-git add .
+Harry Programmer and the Sorcerers Code: Scene 1
